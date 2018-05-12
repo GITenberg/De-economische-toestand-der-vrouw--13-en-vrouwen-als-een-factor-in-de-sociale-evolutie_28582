@@ -1,0 +1,47 @@
+_repo: De-economische-toestand-der-vrouw--13-en-vrouwen-als-een-factor-in-de-sociale-evolutie_28582
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Jacobs, Aletta H. (Aletta Henriette)
+    aliases:
+    - Jacobs, Aletta Henriëtte
+    - Jacobs, Aletta Henriette
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '24971'
+    url: http://www.gutenberg.org/2009/agents/24971
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Aletta_Jacobs
+    - http://www.alettajacobs.org/home.html
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilman, Charlotte Perkins
+    aliases:
+    - Stetson, Charlotte Perkins
+    - Perkins, Charlotte Anna
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '27'
+    url: http://www.gutenberg.org/2009/agents/27
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
+description: ''
+gutenberg_issued: '2009-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28582'
+  lccn: 08009584
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Women -- Employment'
+- !lcsh 'Women -- Economic conditions'
+- !lcc 'HQ'
+title: "De economische toestand der vrouw\r\nEen studie over de economische verhouding\
+  \ tusschen mannen en vrouwen als een factor in de sociale evolutie"
+url: http://www.gutenberg.org/ebooks/28582
